@@ -1,0 +1,8 @@
+{
+  "name": "WorkNearby",
+  "description": "A smart local service marketplace connecting customers with skilled workers like electricians, plumbers, and painters. Features AI-powered job visualization and smart worker matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
